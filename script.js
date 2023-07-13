@@ -30,15 +30,16 @@ prompt("A:")
             alert(false)
             console.log(false)
         }
-   switch(a==1){
+ switch(a==1){
             case 1:
                 console.log("saved")
             break;
             default:
                 console.log("error")
             break;
-        }
-        switch(prompt("A:")){
+ }
+let s1=prompt("B:)
+   switch(prompt("A:")){
             case "1":
                 document.write("1")
             break;
@@ -46,4 +47,10 @@ prompt("A:")
                 document.write("not")
             break;
         }
-
+if(a>prompt("A:")){
+  alert("ERROR!)
+        }
+else{
+ a=s1
+}
+  a=promt()
