@@ -18,6 +18,24 @@ yazEl.innerText += countStr
 console.log(count)
 }
 //
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 prompt("A:")
         let a=prompt("3+5")
         console.log((a))
