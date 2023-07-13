@@ -1,0 +1,56 @@
+#button {
+  width: 100px;
+  height: 100px;
+  background-color: RED;
+  color: black;
+  margin: auto;
+  position: absolute;
+  left: 40%;
+  top: 65%;
+  margin-top: -50px;
+  margin-left: -50px;
+  font-size: x-large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#sıfırla-eld{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  color: black;
+  margin: auto;
+  position: absolute;
+  left: 40%;
+  top: 65%;
+  margin-top: -50px;
+  margin-left: 95px;
+  font-size: x-large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+#count-el{
+  color: black;
+  background-color: chocolate;
+  margin: auto;
+  position:absolute;
+  left: 47%;
+  top: 55%;
+  margin-top: -30px;
+  margin-left: -40px;
+  }
+#kaydet-el{
+  margin: auto;
+  position:absolute;
+  left: 45%;
+  top: 90%;
+  margin-top: -60px;
+  margin-left: -20px;
+}
+#yaz-el{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  top: 100px;
+  left: 100px;
+  position: relative;
+  font-size: x-large;
+}
+body{
+  background-color: antiquewhite;
+}
